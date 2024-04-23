@@ -1,0 +1,26 @@
+.todoItemStyle {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+  align-items: center;
+}
+
+.paraStyle {
+  font-family: roboto;
+  font-size: 22px;
+  color: #000000;
+  max-width: 450px;
+  font-weight: 400;
+}
+
+.buttonStyle {
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-width: 2px;
+  border-radius: 8px;
+  height: 35px;
+  width: 90px;
+  color: #ff0b37;
+}
